@@ -4,7 +4,7 @@
     --cor-primaria: #01012b;
     --cor-secundaria: #3572EF;
     --cor-terciaria: #22D4FD; 
-    --cor-hover: #A7E6FF;
+    --cor-hover: #22D4FD;
 
     --fonte-principal: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -56,6 +56,7 @@ body {
 .apresentacao__conteudo__titulo {
     font-size: 2.25rem;
     font-family: var(--fonte-principal);
+    color:#22D4FD;
 }
 
 .titulo-destaque {
